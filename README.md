@@ -22,10 +22,6 @@ rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/egor/ /tm
 
 ### *Решение:*
 #### Файл crontab: [https://github.com/EgorGEgor/HW10.3/blob/main/crontab]
-### Результат работы утилиты
-
-
-### Проверка работы скрипта и утилиты
 #### Cкрипт: [https://github.com/EgorGEgor/HW10.3/blob/main/every_day_backup.sh]
 ```bash
 #!/bin/bash
@@ -43,7 +39,4 @@ fi
 ```
 
 ### Результат
-#### Файл rsync-cron-2025-04-16.log: [rsync-cron-2025-04-16.log]()
-![png]()
 
----# HW10.3
