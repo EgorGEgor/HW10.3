@@ -21,12 +21,12 @@ rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/egor/ /tm
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ### *Решение:*
-#### Файл crontab: [crontab]()
+#### Файл crontab: [https://github.com/EgorGEgor/HW10.3/blob/main/crontab]
 ### Результат работы утилиты
 
 
 ### Проверка работы скрипта и утилиты
-#### Cкрипт: [every_day_backup.sh]()
+#### Cкрипт: [https://github.com/EgorGEgor/HW10.3/blob/main/every_day_backup.sh]
 ```bash
 #!/bin/bash
 copy=$1
