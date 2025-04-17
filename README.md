@@ -40,5 +40,7 @@ fi
 
 ### Результат
 ![2 1](https://github.com/user-attachments/assets/a148b727-604c-43a0-8d8b-897b985c11ac)
+![2 2](https://github.com/user-attachments/assets/41f3404b-ae2f-4ac7-963c-a3c797fa621b)
+
 
 
