@@ -41,8 +41,6 @@ else
   echo -e "\033[32m----- | $(date +"%Y-%m-%d | %H:%M:%S") | Backup completed Successfully! | -----\033[0m" >> /var/log/rsync-cron-$(date +"%Y-%m-%d").log
 fi
 ```
-#### Файл crontab
-![png]()
 
 ### Результат
 #### Файл rsync-cron-2025-04-16.log: [rsync-cron-2025-04-16.log]()
