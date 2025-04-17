@@ -10,9 +10,8 @@
 ```bash
 rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/egor/ /tmp/backup
 ```
-
-
-
+![1 1](https://github.com/user-attachments/assets/2943642e-3729-4252-88f1-25183f925e65)
+![1 2](https://github.com/user-attachments/assets/194c25a5-ae3c-477a-87a4-bd04660612e7)
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
