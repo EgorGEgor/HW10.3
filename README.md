@@ -39,4 +39,6 @@ fi
 ```
 
 ### Результат
+![2 1](https://github.com/user-attachments/assets/a148b727-604c-43a0-8d8b-897b985c11ac)
+
 
